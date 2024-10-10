@@ -13,5 +13,3 @@ def entrance(payload):
         "Content-Type": "application/json"
     }
     return headers
-
-test = 'test'
