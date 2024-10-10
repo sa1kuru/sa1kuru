@@ -14,4 +14,3 @@ def entrance(payload):
     }
     return headers
 
-test = 'test'
